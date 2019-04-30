@@ -1,6 +1,6 @@
 
 
-	[ ![[Word Press]("wp-admin/images/wordpress-logo.") ]("https://wordpress.org/")
+	[ ![Word Press]("https://raw.githubusercontent.com/wordpress/WordPress/master/wp-admin/images/wordpress-logo.png") ]("https://wordpress.org/")
 
 #### Semantic Personal Publishing Platform
 
